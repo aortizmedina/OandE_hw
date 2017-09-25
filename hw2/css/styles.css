@@ -1,0 +1,45 @@
+body{
+   background-image: url(https://s3.amazonaws.com/replaygame/img/default/rss/Other_alley.jpg);
+    color:blue;
+   /* background: darkred;*/
+}
+/* #reel1, #reel2, #reel3 {*/
+/*      top:248px;*/
+/*      position:absolute;*/
+/*}*/
+    
+#reel1{
+    left:345px;
+     top:248px;
+     position:absolute;
+}
+#reel2{
+     left:345px;
+     top:470px;
+     position:absolute;
+}
+#reel3{
+     left:345px;
+     top:690px;
+     position:absolute;
+}
+    
+img 
+{
+    border-radius:30px;
+}
+ #textS
+ {
+    text-align: center;
+    color: blue;
+    font-size: 10pt;
+ }
+ header{
+     text-align: center;
+     font-size: 26pt;
+     color:red;
+     text-shadow: black;
+     
+ }
+     
+  
